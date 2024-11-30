@@ -49,6 +49,6 @@ int main()
 	int ans=sstf(req,n,head);
 	cout<<"\nSeek time is: "<<ans;
 	double avg=ans/n;
-	cout<<"\nAverage seek Time is: "<<avg;
+	cout<<"\nAverage seek Time is:  "<<avg;
 	return 0;
 }
